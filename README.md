@@ -25,7 +25,7 @@ This project provides a robust billing infrastructure designed specifically for 
 
 ## 📂 GitHub Repository
 
-- [Access the repository here](https://github.com/ileopoldes/freelancer-marketplace-billing)
+- [Access the repository here](https://github.com/bender-tech-ltda/freelancer-marketplace-billing)
 
 ## 🌍 Deployed Link
 
@@ -340,6 +340,3 @@ This is a take-home challenge project for Able. The implementation focuses on de
 - Clean code architecture
 - Production-ready patterns
 
-## License
-
-This project is part of a technical assessment and is not intended for production use.
